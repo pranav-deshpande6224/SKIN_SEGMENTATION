@@ -56,9 +56,9 @@ Two transfer learning strategies are compared:
 
 # Test Predictions
 
-📁 https://drive.google.com/drive/folders/1dV2tUKhs8jBRe-Bs2UhuGs859JpiotCq?usp=drive_link[Feature Extraction]
+📁 https://drive.google.com/drive/folders/1dV2tUKhs8jBRe-Bs2UhuGs859JpiotCq?usp=drive_link [Feature Extraction]
 
-📁 https://drive.google.com/drive/folders/1GH4nEfvrHziPd6-JbFadlfl0ohWxMuJy?usp=drive_link[Fine Tuning]
+📁 https://drive.google.com/drive/folders/1GH4nEfvrHziPd6-JbFadlfl0ohWxMuJy?usp=drive_link [Fine Tuning]
 
 
 ---
