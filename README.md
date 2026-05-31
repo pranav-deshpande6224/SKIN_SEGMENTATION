@@ -6,6 +6,12 @@
 
 ---
 
+# Handwritten Report
+
+📄 https://drive.google.com/file/d/1CpZ7BXkFHlc7gKyGUCEGpMp-8GOijMYZ/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project performs skin lesion segmentation on the ISIC 2016 Skin Lesion Dataset using Transfer Learning.
@@ -34,12 +40,6 @@ Two transfer learning strategies are compared:
 |----------|----------|----------|
 | Feature Extraction | 0.83 | 0.90 |
 | Fine Tuning | 0.83 | 0.91 |
-
----
-
-# Handwritten Report
-
-📄 https://drive.google.com/file/d/1CpZ7BXkFHlc7gKyGUCEGpMp-8GOijMYZ/view?usp=drive_link
 
 ---
 
