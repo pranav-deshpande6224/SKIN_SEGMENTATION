@@ -23,7 +23,8 @@ Two transfer learning strategies are compared:
 
 ## Segmentation Comparison
 
-![Segmentation Results](assets/segmentation_results.png)
+![Segmentation Results](results/table_1.png)
+![Segmentation Results](results/table_2.png)
 
 ---
 
