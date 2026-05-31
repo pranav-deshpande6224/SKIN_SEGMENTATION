@@ -39,7 +39,7 @@ Two transfer learning strategies are compared:
 
 # Handwritten Report
 
-📄 PASTE_REPORT_LINK
+📄 https://drive.google.com/file/d/1CpZ7BXkFHlc7gKyGUCEGpMp-8GOijMYZ/view?usp=drive_link
 
 ---
 
